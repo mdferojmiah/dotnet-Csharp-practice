@@ -2,26 +2,26 @@
 
 class Program{
     public static void Main(string[] args){
-        string userName = "Feroj Miah";
-        int age = 24;
-        double salary = 555.55;
-        char bloodGroup = 'O';
-        bool isAvailabe = true;
+        // here question mark indicates that variable can contain null values
+        string? studentName;
+        string? studentAge;
+        Console.Write("Enter your name: ");
+        studentName = Console.ReadLine();
+        
+        Console.Write("Enter your age: ");
+        studentAge = Console.ReadLine();
 
-        int num1, num2, num3;
-        num1 = num2 = num3 = 5;
+        //TryParse() method tries to convert the studentAge to integer and return the boolean value.
+        //similar method is Parse(). Parse method thows exception if the data type and parsed data type is not similar.
+        //TryParse() do not throw any exception.
+        bool isSuccess = int.TryParse(studentAge, out int stuAge);
 
-        double num4 = (int) num1;
-        string strNum = Convert.ToString(num2);
+        if (isSuccess){
+            Console.WriteLine($"Student name is {studentName}");
+            Console.WriteLine($"Student age is {stuAge}");
+        } else{
+            Console.WriteLine("Wrong input format!!!");
+        }
 
-        Console.WriteLine(userName);
-        Console.WriteLine(age);
-        Console.WriteLine(salary + "$");
-        Console.WriteLine(bloodGroup);
-        Console.WriteLine(isAvailabe);
-
-        Console.WriteLine(num1 + " " + num2 + " " + num3);
-        Console.WriteLine(num4);
-        Console.WriteLine(strNum);
     }
 }
