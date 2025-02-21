@@ -1,0 +1,15 @@
+E:\dotnet-Csharp-practice\FristConsoleApp\bin\Debug\net9.0\FristConsoleApp.exe
+E:\dotnet-Csharp-practice\FristConsoleApp\bin\Debug\net9.0\FristConsoleApp.deps.json
+E:\dotnet-Csharp-practice\FristConsoleApp\bin\Debug\net9.0\FristConsoleApp.runtimeconfig.json
+E:\dotnet-Csharp-practice\FristConsoleApp\bin\Debug\net9.0\FristConsoleApp.dll
+E:\dotnet-Csharp-practice\FristConsoleApp\bin\Debug\net9.0\FristConsoleApp.pdb
+E:\dotnet-Csharp-practice\FristConsoleApp\obj\Debug\net9.0\FristConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-Csharp-practice\FristConsoleApp\obj\Debug\net9.0\FristConsoleApp.AssemblyInfoInputs.cache
+E:\dotnet-Csharp-practice\FristConsoleApp\obj\Debug\net9.0\FristConsoleApp.AssemblyInfo.cs
+E:\dotnet-Csharp-practice\FristConsoleApp\obj\Debug\net9.0\FristConsoleApp.csproj.CoreCompileInputs.cache
+E:\dotnet-Csharp-practice\FristConsoleApp\obj\Debug\net9.0\FristConsoleApp.sourcelink.json
+E:\dotnet-Csharp-practice\FristConsoleApp\obj\Debug\net9.0\FristConsoleApp.dll
+E:\dotnet-Csharp-practice\FristConsoleApp\obj\Debug\net9.0\refint\FristConsoleApp.dll
+E:\dotnet-Csharp-practice\FristConsoleApp\obj\Debug\net9.0\FristConsoleApp.pdb
+E:\dotnet-Csharp-practice\FristConsoleApp\obj\Debug\net9.0\FristConsoleApp.genruntimeconfig.cache
+E:\dotnet-Csharp-practice\FristConsoleApp\obj\Debug\net9.0\ref\FristConsoleApp.dll
