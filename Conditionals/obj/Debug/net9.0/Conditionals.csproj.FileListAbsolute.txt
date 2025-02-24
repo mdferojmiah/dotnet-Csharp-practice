@@ -1,0 +1,15 @@
+E:\dotnet-Csharp-practice\Conditionals\bin\Debug\net9.0\Conditionals.exe
+E:\dotnet-Csharp-practice\Conditionals\bin\Debug\net9.0\Conditionals.deps.json
+E:\dotnet-Csharp-practice\Conditionals\bin\Debug\net9.0\Conditionals.runtimeconfig.json
+E:\dotnet-Csharp-practice\Conditionals\bin\Debug\net9.0\Conditionals.dll
+E:\dotnet-Csharp-practice\Conditionals\bin\Debug\net9.0\Conditionals.pdb
+E:\dotnet-Csharp-practice\Conditionals\obj\Debug\net9.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-Csharp-practice\Conditionals\obj\Debug\net9.0\Conditionals.AssemblyInfoInputs.cache
+E:\dotnet-Csharp-practice\Conditionals\obj\Debug\net9.0\Conditionals.AssemblyInfo.cs
+E:\dotnet-Csharp-practice\Conditionals\obj\Debug\net9.0\Conditionals.csproj.CoreCompileInputs.cache
+E:\dotnet-Csharp-practice\Conditionals\obj\Debug\net9.0\Conditionals.sourcelink.json
+E:\dotnet-Csharp-practice\Conditionals\obj\Debug\net9.0\Conditionals.dll
+E:\dotnet-Csharp-practice\Conditionals\obj\Debug\net9.0\refint\Conditionals.dll
+E:\dotnet-Csharp-practice\Conditionals\obj\Debug\net9.0\Conditionals.pdb
+E:\dotnet-Csharp-practice\Conditionals\obj\Debug\net9.0\Conditionals.genruntimeconfig.cache
+E:\dotnet-Csharp-practice\Conditionals\obj\Debug\net9.0\ref\Conditionals.dll
