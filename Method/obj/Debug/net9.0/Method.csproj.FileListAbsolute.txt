@@ -1,0 +1,15 @@
+E:\dotnet-Csharp-practice\Method\obj\Debug\net9.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-Csharp-practice\Method\obj\Debug\net9.0\Method.AssemblyInfoInputs.cache
+E:\dotnet-Csharp-practice\Method\obj\Debug\net9.0\Method.AssemblyInfo.cs
+E:\dotnet-Csharp-practice\Method\obj\Debug\net9.0\Method.csproj.CoreCompileInputs.cache
+E:\dotnet-Csharp-practice\Method\obj\Debug\net9.0\Method.sourcelink.json
+E:\dotnet-Csharp-practice\Method\bin\Debug\net9.0\Method.exe
+E:\dotnet-Csharp-practice\Method\bin\Debug\net9.0\Method.deps.json
+E:\dotnet-Csharp-practice\Method\bin\Debug\net9.0\Method.runtimeconfig.json
+E:\dotnet-Csharp-practice\Method\bin\Debug\net9.0\Method.dll
+E:\dotnet-Csharp-practice\Method\bin\Debug\net9.0\Method.pdb
+E:\dotnet-Csharp-practice\Method\obj\Debug\net9.0\Method.dll
+E:\dotnet-Csharp-practice\Method\obj\Debug\net9.0\refint\Method.dll
+E:\dotnet-Csharp-practice\Method\obj\Debug\net9.0\Method.pdb
+E:\dotnet-Csharp-practice\Method\obj\Debug\net9.0\Method.genruntimeconfig.cache
+E:\dotnet-Csharp-practice\Method\obj\Debug\net9.0\ref\Method.dll
