@@ -1,0 +1,15 @@
+E:\dotnet-Csharp-practice\Loop\bin\Debug\net9.0\project1.exe
+E:\dotnet-Csharp-practice\Loop\bin\Debug\net9.0\project1.deps.json
+E:\dotnet-Csharp-practice\Loop\bin\Debug\net9.0\project1.runtimeconfig.json
+E:\dotnet-Csharp-practice\Loop\bin\Debug\net9.0\project1.dll
+E:\dotnet-Csharp-practice\Loop\bin\Debug\net9.0\project1.pdb
+E:\dotnet-Csharp-practice\Loop\obj\Debug\net9.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-Csharp-practice\Loop\obj\Debug\net9.0\project1.AssemblyInfoInputs.cache
+E:\dotnet-Csharp-practice\Loop\obj\Debug\net9.0\project1.AssemblyInfo.cs
+E:\dotnet-Csharp-practice\Loop\obj\Debug\net9.0\project1.csproj.CoreCompileInputs.cache
+E:\dotnet-Csharp-practice\Loop\obj\Debug\net9.0\project1.sourcelink.json
+E:\dotnet-Csharp-practice\Loop\obj\Debug\net9.0\project1.dll
+E:\dotnet-Csharp-practice\Loop\obj\Debug\net9.0\refint\project1.dll
+E:\dotnet-Csharp-practice\Loop\obj\Debug\net9.0\project1.pdb
+E:\dotnet-Csharp-practice\Loop\obj\Debug\net9.0\project1.genruntimeconfig.cache
+E:\dotnet-Csharp-practice\Loop\obj\Debug\net9.0\ref\project1.dll
